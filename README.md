@@ -16,7 +16,7 @@ in the "Which apis do you plan to use" click Web Api
 once you create the app hit the settings button and keep the tab open for now
 go to the folder where you extracted the files
 open up the app folder in there and open up "keys.json"
-from there replace the your_spotipy_client_id and your_spotipy_client_secret with the keys you get on the settings page for your app
+from there replace the your_spotify_client_id and your_spotify_client_secret with the keys you get on the settings page for your app
 dont give anyone these keys they could abuse them
 
 ![image](https://github.com/user-attachments/assets/5925dd7f-cacd-47a1-85ea-bc77832daa72)
