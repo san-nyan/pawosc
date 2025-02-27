@@ -5,7 +5,7 @@ please dont complain to me if this breaks for you but
 
 if (for some ungodly reason) you want to run this on your own machine good luck with the source code but ive also made a build in the releases tab but you will have to get spotify client id and secret
 
-go to releases and download the zip extract it to a folder
+go to [releases](https://github.com/san-nyan/pawosc/releases/tag/Alpha) and download the zip extract it to a folder
 go to https://developer.spotify.com/dashboard and sign in
 make an app call it whatever you want and add anything for the description
 for "Redirect URIs" type http://127.0.0.1:8888/callback and click add
