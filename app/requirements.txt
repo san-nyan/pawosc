@@ -1,0 +1,5 @@
+spotipy
+python-osc
+urllib3
+requests
+logging
