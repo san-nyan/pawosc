@@ -21,4 +21,5 @@ dont give anyone these keys they could abuse them
 
 
 you should be good now to run the pawosc.exe it will open a console window that shows you everything its doing and to close the app just close the console window
+
 ![image](https://github.com/user-attachments/assets/1ba2f618-611c-4c2a-b92a-590aeac749c4)
