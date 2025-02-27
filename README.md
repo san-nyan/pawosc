@@ -16,6 +16,8 @@ go to the folder where you extracted the files
 open up the app folder in there and open up "keys.json"
 from there replace the your_spotify_client_id and your_spotify_client_secret with the keys you get on the settings page for your app
 dont give anyone these keys they could abuse them
+![image](https://github.com/user-attachments/assets/5925dd7f-cacd-47a1-85ea-bc77832daa72)
+
 
 you should be good now to run the pawosc.exe it will open a console window that shows you everything its doing and to close the app just close the console window
 ![image](https://github.com/user-attachments/assets/1ba2f618-611c-4c2a-b92a-590aeac749c4)
