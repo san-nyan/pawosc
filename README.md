@@ -1,6 +1,8 @@
 # pawosc
 this is a terrible awful app that takes your current spotify song and sends an OSC message to the vrchat chatbox with the contents
+
 called pawosc cause im paw on vrchat
+
 please dont complain to me if this breaks for you but 
 
 if (for some ungodly reason) you want to run this on your own machine good luck with the source code but ive also made a build in the releases tab but you will have to get spotify client id and secret
